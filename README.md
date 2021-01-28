@@ -5,7 +5,7 @@
 <p align="center">🔥 obsessed with web development</p>
 
 <p align="center">
- <a data-flickr-embed="true" align="center" href="https://www.flickr.com/photos/191267681@N07/50884533146/in/dateposted-public/" title="страханет"><img src="https://live.staticflickr.com/65535/50884533146_7d041b6e8d_z.jpg" width="400" height="450" alt="страханет"></a>
+ <a data-flickr-embed="true" align="center" href="https://www.flickr.com/photos/191267681@N07/50884533146/in/dateposted-public/" title="страханет"><img src="https://live.staticflickr.com/65535/50884533146_7d041b6e8d_z.jpg" width="200" height="300" alt="страханет"></a>
 </p>
 
 
