@@ -1,8 +1,8 @@
  ## <p align="center">Greetings Everyone , Call Me FLKQ</p>
 
-### Currently working with React and learning new stuff 
+### <p align="center"> Currently working with React and learning new stuff</p>
 
-🔥 obsessed with web development
+<p align="center">🔥 obsessed with web development</p>
 
 
 
