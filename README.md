@@ -1,4 +1,4 @@
- ## Greetings everyone , call me FLKQ
+ ## Greetings Everyone , Call Me FLKQ
 
 ### Currently working with React and learning new stuff 
 
