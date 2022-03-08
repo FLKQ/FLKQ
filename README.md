@@ -1,10 +1,9 @@
  ## <p align="center">👋 Greetings Everyone , Call Me FLKQ 👋</p>
 
-### <p align="center"> 👀 Currently working with React and learning new stuff 👀</p>
+### <img src="https://live.staticflickr.com/65535/51926695765_bbb6be0095_b.jpg" width="1024" height="576" alt="maxresdefault"/>
 
 <p align="center">
 
-<p align="center"> New avatar in development </p>
 
 
 
